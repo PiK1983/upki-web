@@ -32,8 +32,8 @@ For detailed instructions see [NPM Install](https://tecadmin.net/install-latest-
 µPki-WEB is based on vuejs 3.x project. You are allowed to modify and enhanced it for any purpose. Please just tell us if you are making something out of it!! ;)
 
 ### 2.1 Project setup
-```
-npm install
+```sh
+npm install # install dependencies
 ```
 
 ### 2.2 Create a socket json file into `src/data/socket.json`
